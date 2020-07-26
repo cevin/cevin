@@ -21,4 +21,4 @@ GoLang      15 hrs       █████░░░░░░░░░░░░░�
 SQL & *NIX  10 hrs       ██░░░░░░░░░░░░░░░░░░░░░░░   3 
 ```
 
-⭐️ From [@Cevincheung](https://github.com/cevin)
+⭐️ From [@Amchuz](https://github.com/Amchuz)
