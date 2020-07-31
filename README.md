@@ -12,6 +12,18 @@
 ![](https://img.shields.io/badge/-PHP-8895BF?style=flat-square&logo=php&logoColor=white)
 ![](https://img.shields.io/badge/-Go-00ACD7?style=flat-square&logo=go&logoColor=white)
 ![](https://img.shields.io/badge/Py-thon-336D9C?style=flat-square&logo=python&logoColor=white)
+![](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![](https://img.shields.io/badge/-MariaDB-003545?style=flat-square&logo=mysql&logoColor=white)
+![](https://img.shields.io/badge/-Nginx-269539?style=flat-square&logo=nginx&logoColor=white)
+![](https://img.shields.io/badge/-Apache-D22128?style=flat-square&logo=apache&logoColor=white)
+![](https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
+![](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat-square&logo=RabbitMQ&logoColor=white)
+![](https://img.shields.io/badge/-Apache%20RocketMQ-D77310?style=flat-square&logo=Apache%20RocketMQ&logoColor=white)
+
+![](https://img.shields.io/badge/-Symfony-000000?style=flat-square&logo=symfony&logoColor=white)
+![](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![](https://img.shields.io/badge/-CakePHP-D33C43?style=flat-square&logo=cakephp&logoColor=white)
 ![](https://visitor-badge.laobi.icu/badge?page_id=github-cevin-cevin.readme)
 
 
