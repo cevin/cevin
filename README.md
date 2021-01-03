@@ -3,7 +3,7 @@
   
  
 ![](https://img.shields.io/badge/FreeBSD-CURRENT-A40000?style=flat-square&logo=freebsd&logoColor=A40000)
-![](https://img.shields.io/badge/Debian-buster-C70137?style=flat-square&logo=debian&logoColor=C70137)
+![](https://img.shields.io/badge/Debian-bullseye-C70137?style=flat-square&logo=debian&logoColor=C70137)
 ![](https://img.shields.io/badge/OS-Archlinux-0F94D2?style=flat-square&logo=arch-linux&logoColor=0F94D2)
 ![](https://img.shields.io/badge/openSUSE-Tumbleweed-6DA741?style=flat-square&logo=opensuse&logoColor=white)
 ![](https://img.shields.io/badge/macOS-Big%20Sur-gray?style=flat-square&logo=apple&logoColor=white)
