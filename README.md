@@ -40,12 +40,6 @@
 
 -------
 
-📊 **Weekly development breakdown**
-<!--START_SECTION:waka-->
-```text
-PHP         40 hrs       ██████████████████████░░░   90
-GoLang      15 hrs       █████░░░░░░░░░░░░░░░░░░░░   7 
-SQL & *NIX  10 hrs       ██░░░░░░░░░░░░░░░░░░░░░░░   3 
-```
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=cevin&layout=compact&theme=dark)
 
 ⭐️ From [@Amchuz](https://github.com/Amchuz)
